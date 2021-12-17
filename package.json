@@ -1,4 +1,5 @@
 {
+  "homepage": "http://sun-ruiheng.github.io/CC-Shop-Clone",
   "name": "cc-shop-clone",
   "version": "0.1.0",
   "private": true,
@@ -14,7 +15,6 @@
     "redux": "^4.1.2",
     "web-vitals": "^2.1.2"
   },
-  "homepage": "http://sun-ruiheng.github.io/CC-Shop-Clone",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
