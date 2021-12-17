@@ -11,7 +11,7 @@ const render = () => {
       state={store.getState()} dispatch={store.dispatch}
     />,
     document.getElementById('root')
-  )
+  );
 };
 render();
 
